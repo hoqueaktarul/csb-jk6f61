@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://hoqueaktarul.github.io/csb-jk6f61/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://hoqueaktarul.github.io/csb-jk6f61/static/js/main.2296b78b.chunk.js",
+    "main.js.map": "https://hoqueaktarul.github.io/csb-jk6f61/static/js/main.2296b78b.chunk.js.map",
+    "runtime-main.js": "https://hoqueaktarul.github.io/csb-jk6f61/static/js/runtime-main.9fa70c2f.js",
+    "runtime-main.js.map": "https://hoqueaktarul.github.io/csb-jk6f61/static/js/runtime-main.9fa70c2f.js.map",
+    "static/js/2.85edcf36.chunk.js": "https://hoqueaktarul.github.io/csb-jk6f61/static/js/2.85edcf36.chunk.js",
+    "static/js/2.85edcf36.chunk.js.map": "https://hoqueaktarul.github.io/csb-jk6f61/static/js/2.85edcf36.chunk.js.map",
+    "index.html": "https://hoqueaktarul.github.io/csb-jk6f61/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://hoqueaktarul.github.io/csb-jk6f61/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.85edcf36.chunk.js.LICENSE.txt": "https://hoqueaktarul.github.io/csb-jk6f61/static/js/2.85edcf36.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fa70c2f.js",
+    "static/js/2.85edcf36.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.2296b78b.chunk.js"
+  ]
+}
